@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about game development, web development and graphics programming.
 - 📫 How to reach me: kartimothy@gmail.com, [Twitter @c3n7_luc](https://twitter.com/c3n7_luc)
 - 😄 Pronouns: gamedev, webdev, indiedev
-- ⚡ Fun fact: *c3n7 luc* is supposed to pronounced as *Saint Luke*.
+- ⚡ Fun fact: *c3n7 luc* is pronounced as *Saint Luke*.
