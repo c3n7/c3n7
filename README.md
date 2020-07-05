@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on game development
 - 🤔 I’m looking for remote jobs and internships.
 - 💬 Ask me about game development, web development and graphics programming.
-- 📫 How to reach me: kartimothy@gmail.com, [Twitter @c3n7_luc](https://twitter.com/c3n7_luc)
+- 📫 How to reach me: kartimothy@gmail.com, on Twitter [@c3n7_luc](https://twitter.com/c3n7_luc)
 - 😄 Pronouns: gamedev, webdev, indiedev
 - ⚡ Fun fact: *c3n7 luc* is pronounced as *Saint Luke*.
