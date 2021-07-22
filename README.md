@@ -1,16 +1,22 @@
-### Hi there 👋
+```txt
 
-<!--
-**c3n7/c3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on [project sekkei](https://github.com/c3n7/project-sekkei)
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on game development
-- 🤔 I’m looking for remote jobs and internships.
-- 💬 Ask me about game development, web development and graphics programming.
-- 📫 How to reach me: kartimothy@gmail.com, on Twitter [@c3n7_luc](https://twitter.com/c3n7_luc)
-- 😄 Pronouns: gamedev, webdev, indiedev
-- ⚡ Fun fact: *c3n7 luc* is pronounced as *Saint Luke*.
+                                                                             
+                                                                             
+                     333333333333333                     77777777777777777777
+                    3:::::::::::::::33                   7::::::::::::::::::7
+                    3::::::33333::::::3                  7::::::::::::::::::7
+                    3333333     3:::::3                  777777777777:::::::7
+    cccccccccccccccc            3:::::3nnnn  nnnnnnnn               7::::::7 
+  cc:::::::::::::::c            3:::::3n:::nn::::::::nn            7::::::7  
+ c:::::::::::::::::c    33333333:::::3 n::::::::::::::nn          7::::::7   
+c:::::::cccccc:::::c    3:::::::::::3  nn:::::::::::::::n        7::::::7    
+c::::::c     ccccccc    33333333:::::3   n:::::nnnn:::::n       7::::::7     
+c:::::c                         3:::::3  n::::n    n::::n      7::::::7      
+c:::::c                         3:::::3  n::::n    n::::n     7::::::7       
+c::::::c     ccccccc            3:::::3  n::::n    n::::n    7::::::7        
+c:::::::cccccc:::::c3333333     3:::::3  n::::n    n::::n   7::::::7         
+ c:::::::::::::::::c3::::::33333::::::3  n::::n    n::::n  7::::::7          
+  cc:::::::::::::::c3:::::::::::::::33   n::::n    n::::n 7::::::7           
+    cccccccccccccccc 333333333333333     nnnnnn    nnnnnn77777777            
+                                                                             
+```
