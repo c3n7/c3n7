@@ -13,3 +13,9 @@
  '----------------'  '----------------'  '----------------'  '----------------' 
 
 ```
+
+
+![c3n7's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3n7&show_icons=true&theme=github_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=c3n7&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
